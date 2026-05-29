@@ -1,0 +1,5 @@
+# Development planning artifacts (GSD workflow)
+.planning/
+
+# Local Claude Code config
+.claude/settings.local.json
